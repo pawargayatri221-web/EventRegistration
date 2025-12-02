@@ -1,2 +1,2 @@
- Event Registration
+ Event Registration.  
 
